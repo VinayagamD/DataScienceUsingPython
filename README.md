@@ -35,11 +35,11 @@ Jupyter:https://jupyter.org/
   - Data Input
   - Data Output
   - Excercise Using Pandas
- * Matplotlib:https://matplotlib.org/
-  - Plot
-  - Innerplot
-  - Subplot
-  - Figure
-  - Axes
- * Seaborn
+* Matplotlib:https://matplotlib.org/
+    - Plot
+    - Innerplot
+    - Subplot
+    - Figure
+    - Axes
+* Seaborn
   
