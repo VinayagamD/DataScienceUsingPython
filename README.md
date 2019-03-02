@@ -42,4 +42,6 @@ Jupyter:https://jupyter.org/
     - Figure
     - Axes
 * Seaborn
+    - distplot
+    - categorical plot
   
