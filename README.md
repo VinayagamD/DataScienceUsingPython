@@ -41,7 +41,7 @@ Jupyter:https://jupyter.org/
     - Subplot
     - Figure
     - Axes
-* Seaborn
+* Seaborn: https://seaborn.pydata.org/
     - distplot
     - categorical plot
   
