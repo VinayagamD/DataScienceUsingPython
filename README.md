@@ -44,4 +44,5 @@ Jupyter:https://jupyter.org/
 * Seaborn: https://seaborn.pydata.org/
     - distplot
     - categorical plot
-  
+    - Matrix Plot
+    - Grids
