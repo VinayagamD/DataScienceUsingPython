@@ -46,3 +46,6 @@ Jupyter:https://jupyter.org/
     - categorical plot
     - Matrix Plot
     - Grids
+    - Regression Plot
+    - Styles And Colors
+* Pandas Built In Data Visualization: https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
